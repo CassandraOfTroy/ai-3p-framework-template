@@ -27,4 +27,5 @@ The AI-3P framework is designed to assess pre-AI adoption risks by evaluating ne
 3.  **Score and Prioritize:**
     * Follow the methodology in the blog post to score each question for a potential AI use case. The scoring system is "no/unknown" (= 0), "partial" (= 1), and "yes/not applicable" (= 2).
     * The spreadsheet will automatically calculate the weighted **AI-3P Readiness Score** to help you prioritize your AI initiative and make a "go/no-go" decision.
-  <img width="1148" height="329" alt="image" src="https://github.com/user-attachments/assets/b2e8f9e3-de2a-4250-844b-c4d1ca77bea9" />
+<img width="1036" height="304" alt="image" src="https://github.com/user-attachments/assets/0587d35f-8b08-45ed-ae82-b92dfd17416d" />
+
