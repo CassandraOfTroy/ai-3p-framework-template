@@ -1,6 +1,6 @@
 # AI-3P Framework: Readiness Scorecard
 
-This repository contains the official Excel template for the AI-3P Framework, a practical scorecard for AI pre-deployment decisions. This tool is designed to accompany the blog post: **[Bring Your Own Questions for AI Readiness Assessment](Your-Blog-Post-Link-Here)**.
+This repository contains the official Excel template for the AI-3P Framework, a practical scorecard for AI pre-deployment decisions. This tool is designed to accompany the blog post: **[Bring Your Own Questions for AI Readiness Assessment](https://medium.com/@martosi/9f9df694edb8)**.
 
 ## About the Framework
 The AI-3P framework is designed to assess pre-AI adoption risks by evaluating new initiatives against the three core pillars in every organization: **People**, **Processes**, and **Products**. The goal is to make risks visible *before* hands-on implementation starts, helping to prevent common project failures that stem from issues with ownership, workflows, or change management rather than the technology itself.
