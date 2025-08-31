@@ -8,6 +8,8 @@ The AI-3P framework is designed to assess pre-AI adoption risks by evaluating ne
 ## What's Inside
 
 * **`AI-3P_Scorecard_Template.xlsx`**: The main template file. It includes the scoring logic and the example questions for all three pillars as detailed in the blog post.
+  <img width="1148" height="329" alt="image" src="https://github.com/user-attachments/assets/b2e8f9e3-de2a-4250-844b-c4d1ca77bea9" />
+
 
 ## How to Use
 
